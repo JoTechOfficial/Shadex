@@ -1,0 +1,107 @@
+.ChannelDms-channelpopout-popout {
+    color: var(--header-primary) !important;
+    border-radius: 8px;
+    resize: horizontal;
+    overflow: hidden;
+    height: fit-content !important;
+    direction: rtl
+}
+
+.ChannelDms-channelpopout-popout>* {
+    direction: ltr
+}
+
+.ChannelDms-channelpopout-content {
+    min-height: 106px;
+    height: 600px;
+    max-height: 600px;
+    resize: vertical;
+    overflow: hidden
+}
+
+.ChannelDms-channelpopout-content>section {
+    height: calc(100% - 39px) !important
+}
+
+.ChannelDms-channelpopout-popout.ChannelDms-channelpopout-collapsed {
+    width: 100px !important
+}
+
+.ChannelDms-channelpopout-channelIcon,
+.ChannelDms-channelpopout-headerStatus {
+    margin: 0 8px !important
+}
+
+.ChannelDms-channelpopout-headerName {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    font-family: var(--font-display)
+}
+
+/* image attachment resize */
+.ChannelDms-channelpopout-popout .embedWrapper-1MtIDg:not(.markup-eYLPri, .galleryImage-1yhJCI),
+.ChannelDms-channelpopout-popout .embedWrapper-1MtIDg .embedVideo-2ixt5A,
+.ChannelDms-channelpopout-popout .wrapper-1FP9YQ {
+    height: auto !important;
+    width: unset !important;
+    max-width: max-content !important;
+    max-height: 300px;
+}
+
+.ChannelDms-channelpopout-popout .embedWrapper-1MtIDg .clickableWrapper-2WTAkL img:not(.embedGalleryImageElement-2VNYIN),
+.ChannelDms-channelpopout-popout .embedWrapper-1MtIDg [data-fullscreen="false"] video {
+    position: relative;
+    height: auto !important;
+    width: unset !important;
+    max-width: 100% !important;
+    max-height: 300px;
+}
+
+.ChannelDms-channelpopout-collapseButton {
+    left: 10px !important;
+    top: 2px !important;
+    opacity: 0
+}
+
+.ChannelDms-channelpopout-collapseButton:hover,
+.ChannelDms-channelpopout-popout.ChannelDms-channelpopout-collapsed .ChannelDms-channelpopout-collapseButton {
+    opacity: 1
+}
+
+.ChannelDms-channelpopout-removeButton {
+    top: 0 !important;
+    right: 0 !important;
+    opacity: 0
+}
+
+.ChannelDms-channelpopout-popout .button-1yVL_7 {
+    border-radius: 0;
+    width: 100%;
+    height: 36px
+}
+
+/* username */
+.ChannelDms-channelpopout-popout .cozy-VmLDNB .contents-2MsGLg .header-2jRmjb {
+    display: flex;
+}
+
+.ChannelDms-channelpopout-popout .cozy-VmLDNB .headerText-2z4IhQ {
+    min-width: 0;
+    white-space: nowrap;
+    display:flex;
+}
+
+.ChannelDms-channelpopout-popout .cozy-VmLDNB .headerText-2z4IhQ .username-h_Y3Us {
+    display: block;
+    text-overflow: ellipsis;
+    flex: 1 1;
+}
+
+.ChannelDms-channelpopout-popout .cozy-VmLDNB .timestampInline-_lS3aK {
+    white-space: nowrap;
+    margin-top: 1px;
+}
+
+.ChannelDms-channelpopout-popout .cozy-VmLDNB .headerText-2z4IhQ .PI-indicatorContainer {
+    margin-top: 1px;
+}
