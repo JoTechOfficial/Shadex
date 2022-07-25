@@ -3060,18 +3060,6 @@ html.app-focused .sidebar-nqHbhN .selected-g-kMVV.item-3XjbnG:not(.disabled-1nof
 }
 
 /* thank you frog person */
-#appearance-tab.contentColumn-1C7as6> :not([class]):first-child>.children-1xdcWE>div:nth-child(2) [role="radiogroup"] .item-2idW98:first-child {
-    background: url("https://i.imgur.com/r2e1gbZ.png") center/cover;
-}
-
-#appearance-tab.contentColumn-1C7as6> :not([class]):first-child>.children-1xdcWE>div:nth-child(2) [role="radiogroup"] .item-2idW98:nth-child(2) {
-    background: url("https://i.imgur.com/a6XFHrA.png") center/cover;
-}
-
-#appearance-tab.contentColumn-1C7as6> :not([class]):first-child>.children-1xdcWE>div:nth-child(2) [role="radiogroup"] .item-2idW98:nth-child(3) {
-    background: url("https://i.imgur.com/Ta8d8Ae.png") center/cover, var(--background-primary);
-}
-
 #appearance-tab.contentColumn-1C7as6> :not([class]):first-child>.children-1xdcWE>div:nth-child(2) [role="radiogroup"] .item-2idW98[aria-checked="true"] {
     box-shadow: inset 0 0 0 1px var(--background-primary), var(--box-shadow-selection)
 }
