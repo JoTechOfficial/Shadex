@@ -5296,23 +5296,23 @@ html.app-focused .sidebar-nqHbhN .selected-g-kMVV.item-3XjbnG:not(.disabled-1nof
     background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/HypeSquad.png");
 }
 
-.item-3XjbnG[aria-controls=settings-tab]::before,
+.item-3XjbnG[aria-controls=settings-tab]::before {
     background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/BetterDiscordSettings.png");
 }
 
-.item-3XjbnG[aria-controls=emotes-tab]::before,
+.item-3XjbnG[aria-controls=emotes-tab]::before {
     background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/BetterDiscordEmotes.png");
 }
 
-.item-3XjbnG[aria-controls=customcss-tab]::before,
+.item-3XjbnG[aria-controls=customcss-tab]::before {
     background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/BetterDiscordCSS.png");
 }
 
-.item-3XjbnG[aria-controls=plugins-tab]::before,
+.item-3XjbnG[aria-controls=plugins-tab]::before {
     background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/BetterDiscordPlugins.png");
 }
 
-.item-3XjbnG[aria-controls=themes-tab]::before,
+.item-3XjbnG[aria-controls=themes-tab]::before {
     background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/BetterDiscordThemes.png");
 }
 
@@ -5321,7 +5321,7 @@ html.app-focused .sidebar-nqHbhN .selected-g-kMVV.item-3XjbnG:not(.disabled-1nof
 .item-3XjbnG[aria-controls=hotspot-options-tab]::before,
 .item-3XjbnG[aria-controls=dismissible-content-options-tab]::before,
 .item-3XjbnG[aria-controls=payment-flow-modals-tab]::before {
-    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAC9klEQVQ4jXWUS4tcRRTHf6fu7Ul339vdSU8n6hAjTkKMCCoIGlBx5U7I2m/iQhGDCz9OcON2ZDASSCAbNWAYxyQzZh49PdNzu2/drsdxUQ3jLDzwp6rOs86jSgB41Lwttfn+xgX9tJ2ZoSgGQDlPslxViDbEo6eNbGpuv+F273fhfnPrmmYPRrn0n9RQK/QNnEa40oJZSMbdDA4c9DKYeugYuNWBw6DTZ66+bVq1uTsS6T8+AbuAzEEW4Aows9AsEuY28TKfYBfw+ARWVfp507krb200/7yos1dthJZAJ4MqwOUWfD6EaUgpXcrhp3G6VZlBHcApFBmstcNL0w0ybJoUpRuhaaCMsD8Dt1CGBlpRsQtlf5ZkTZN0M59u2lezavCSi4NSUyrtAJUF8fDwSOigLFzai0+ydki6pYI4UE9mcCriFZxSqFJZxbiEAuX5qfL6BejqGb+ySqnJRpwiXjHioYgwrwEHxqUomYf3S+goTGvlvRKMTzLjQF2yKRTwkItXxKeDITkD+PgVYa+KeBVUoWUin1wybO6l6ZKlA9FUhlyWUcSn7oiHfg6vrSghCj8+S/w7bwgiykBg6pa67r+OAtpRlWul8O4QFhHKFaEJ0DHKF2tpwge5sDVVvnxT2JspLQNPjmF3ljIyeLSxcNGA+kgbxTaK+Eg1i+Ai4iIHJ4HrXeXvidIzoC4yMEpjgQA5Tqlr+GMfHu3AnRswW0R+Gws71fm3drWEd0YRuxDu/QlFC+pGkVIwEvE4qOfKByPhuApIgN2Jpg75M+xMFBNgchr48LIwny/TChpMYxl3Yirc7pHSNcKv29ATKAS6nKEncH8byszw/FAxDgqgmuuh2R7rxs0BFKK8nCi/bIF4RZ1i50q9hJ2nAcQpm0+VvWOlEGW9hL/22ZDB1/b61bY+WC1kdXeqHMzOatJdOV+j+WL5LwmMurA2EMaVjl9Y+UgABl/ZdePjd+tD+azX5qIuP7b/IxHiqeV4a8LPMZNvT35ob/0LeTyw0zu4WkIAAAAASUVORK5CYII=");
+    background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/BetterDiscordSettings.png");
 }
 
 .item-3XjbnG[aria-controls=discord-nitro-tab]::before {
