@@ -5193,15 +5193,15 @@ html.app-focused .sidebar-nqHbhN .selected-g-kMVV.item-3XjbnG:not(.disabled-1nof
 }
 
 .item-3XjbnG[aria-controls=my-account-tab]::before {
-    background-image: url("https://i.postimg.cc/zfRZ41kQ/My-Account.png");
+    background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/MyAccount.png");
 }
 
 .item-3XjbnG[aria-controls=profile-customization-tab]::before {
-    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALzSURBVDhPlVRNSFRRFP7ufW/emDP+a+FfZamBFInlqCAiNEqUECmItKlN0bJVtQhCWriqZUGLoMLA8odIqYRKozIrwU1liaBOhX/5rzNv3sy7nXfnaWMuwg8unPPdcw/nO+e8x0AYry7NdQqzERCV5CZDgNOBYGAKyCaEAZMJYumFdUXULGPoYRq/ur2rf5j5jpfkOXWzn+6TrAdbBWWcg8NZyiarPC1ciHqbXweLdcFReAhKRhY5HOHRERiDAxBG0I74C8F5K5vwFk9T+ak2B6ZpiD19DjEn6kmXCqh0CCJsQiwvYvXebQSetBFhqYvABGaUi3sym0iW7ANzuZFw/RacFV4Yr55D72yHkpsPI8jxs2MQ4RBDYl0NlB3pCL7rlUks0PsYvpbEgvvCZaj5BRFHdQAK1UqymIzi4Eok1Fldg221DdK2wCxMe4upMlKRlY2kO60ITC1BidXgiIuJlE+jiYZYmIe5MAeenIrZhmMQug5OMevVOAqLYSzpmOj+iqmX3yUXePEU5vSktNegU3/0R80Q/lU4ijw2GyWLueOgujS4clIQl5cmOX/bA8yeqdswKXX/QSj7CsATk6HszLHZqEShoc+kjyOtPBfxBemSi7/SBKXmFHxvRxHyG5JTCw/DWVNLEqiHUarXExmDnxDsf2N7ESiZ2Ug4ex7GagijJNdY2bhD4R/jthWVyMJi4yW5J2HfGMzZGdqbJXCVI7tiL+2RwFjP8HplYmUJxkC/tC2w6SoPbRp9Vf/CmhiNPf7aDWgl5Qgu6/C9HpGrsOtIPgJ3b8Lfcl+G0vAFN0XUikbDGrt1Y2+25nZiNyVQnCp8nR/hf9gseQuUA5yWaN72N8H63rSiEtujAsM6Ur51gQ30YvWA12YlfrNJr6ed/hknbWITtPJKqDTm0Pgo9eQ97Y9f8sIRA2YEIjZj7ezXUU+BGjL76NcTL9mtY54mUsYznn34ElJ5mcnw2JJJCQ3qzn8OM6h9cyS+w0qS1t039Af3qBEliTTlEQAAAABJRU5ErkJggg==");
+    background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/Profiles.png");
 }
 
 .item-3XjbnG[aria-controls=privacy-\&-safety-tab]::before {
-    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHoSURBVDhPnZQ7S8NQFMdP0jRFrdH6Bitaig+oDxAd1EkQFBzExVXwGzgI4iDo1EE3P4CDiIMK0l3ERRBRERxUpAhqW1uhbcQ8mocnya0xbcXHDy4359ybP/97ck/AgOf5blmWI7lcjtd/iaIoPI4IvtuTFwmpqpol639G07SsJEkhQCd7JPdv0Nk+hWpJlmXrTHtfEFQdDp5luMwo8HibhZGWMpjt46CcpckOGxRKUVgXmWEYt5FIyRrc8So8iRpsPogQx9ng6iRpzgHODQvDNdBWzUBvowcavIyZx+OpFNZHo2maMhIb94IpUEhe6CuLKLg6ah0EhXSHzzdFJ08/k5Est3kcQi7T1+9wF5TKETbTOvAv70XDnXktGh2VTveOGkVfJegMX0PhASui5+TJwth8sTEDbU2cGRfVKFDrgelQNYm+Z3Kw9VMkjyHkMLA+5Ye6cuuzlqLG64Hw3BCJbIqE/D4WInPBkmK1KLK7NA7+ei/J2NB4Pud3RAZaK+Bsvgsm2m37Y33NcLw2Df0dDSRjg12iAbZI3OqY0mydpvTtwxsSlQa7Iw6CIGyT+N+IorgDiUQiiE2XJLk/g9cnmU6ng+b9icViAY7jVlwu1yhFUVW4XnBvneAeDfdkUOQIf0PLPp8v+gF6fTXGUImD2AAAAABJRU5ErkJggg==");
+    background-image: url("https://jotechofficial.github.io/FluentForDiscord/Images/PrivacyAndSafety.png");
 }
 
 .item-3XjbnG[aria-controls=authorized-apps-tab]::before {
