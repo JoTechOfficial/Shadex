@@ -6,3 +6,14 @@ Heavily Modified Version Of This Skin: https://github.com/maenDisease/BetterDisc
 Home Button By: IcoGhost
 
 Icons Provided By: Icon8
+
+Installation Instructions
+-----
+Install: https://betterdiscord.app/
+
+
+Install These Fonts (Only For Windows 7-10):
+-----
+Segoe UI Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/Segoe%20UI.ttf)
+
+Segoe UI Variable Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/SegoeUI-VF.ttf)
