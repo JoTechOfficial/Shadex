@@ -1,11 +1,5 @@
 # <img src="https://i.postimg.cc/jqyTrCD7/Launcher-Logo-1.png" width="40" height="40"> FluentForDiscord
 
-Heavily Modified Version Of This Skin: https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
-
-Home Button By: IcoGhost
-
-Icons Provided By: Icon8
-
 Installation Instructions
 -----
 Install: https://betterdiscord.app/
@@ -22,3 +16,11 @@ Install These Fonts (Only For Windows 7-10):
 Segoe UI Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/Segoe%20UI.ttf)
 
 Segoe UI Variable Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/SegoeUI-VF.ttf)
+
+Credits
+-----
+Heavily Modified Version Of This Skin: https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
+
+Home Button By: IcoGhost
+
+Icons Provided By: Icon8
