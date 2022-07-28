@@ -1,5 +1,9 @@
 # <img src="https://i.postimg.cc/jqyTrCD7/Launcher-Logo-1.png" width="40" height="40"> FluentForDiscord
 
+<p align="center">
+  <img src="https://i.postimg.cc/TTvHLCpg/Screenshot-2022-07-28-035228.png" />
+</p>
+
 Installation Instructions
 -----
 Install: https://betterdiscord.app/
