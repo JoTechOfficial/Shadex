@@ -1,5 +1,4 @@
-# FluentForDiscord
-Currently Testing (Work In Progress)
+# <img src="https://i.postimg.cc/jqyTrCD7/Launcher-Logo-1.png" width="40" height="40"> FluentForDiscord
 
 Heavily Modified Version Of This Skin: https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
 
