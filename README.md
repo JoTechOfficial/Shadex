@@ -11,7 +11,7 @@ Installation Instructions
 -----
 Install: https://betterdiscord.app/
 
-1. Once betterdiscord is installed, install fluent for discord in your themes folder 
+1. Once betterdiscord is installed, install fluent for discord via exe provided in your themes folder 
 
 (default is: C:\Users\(YourName)\AppData\Roaming\BetterDiscord\themes)
 
