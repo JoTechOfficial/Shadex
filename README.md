@@ -26,10 +26,6 @@ Make Sure Your Settings Look Like This:
 
 Credits & Font Used
 -----
-Heavily Modified Version Of This Skin: https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
-
-Home Button By: IcoGhost
-
-Icons Provided By: Icon8
+Heavily Modified Version Of This Skin: https://github.com/schnensch0/zelk
 
 Font: Bahnschrift (Included In Windows 10 and 11)
