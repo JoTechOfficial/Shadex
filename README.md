@@ -24,7 +24,7 @@ Make Sure Your Settings Look Like This:
   <img src="https://i.postimg.cc/RmRzv3Kq/Screenshot-2022-12-16-150339.png" />
 </p>
 
-Credits & Font Used
+Credit & Font Used
 -----
 Heavily Modified Version Of This Skin: https://github.com/schnensch0/zelk
 
