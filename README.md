@@ -22,10 +22,12 @@ Make Sure Your Settings Look Like This:
   <img src="https://i.postimg.cc/tpfSfd1x/Screenshot-2022-12-16-103805.png" />
 </p>
 
-Credits
+Credits & Font Used
 -----
 Heavily Modified Version Of This Skin: https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
 
 Home Button By: IcoGhost
 
 Icons Provided By: Icon8
+
+Font: Bahnschrift (Included In Windows 10 and 11)
