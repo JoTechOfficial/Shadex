@@ -8,11 +8,11 @@ Installation Instructions
 -----
 Install: https://betterdiscord.app/
 
-1. Once betterdiscord is installed, install Shadex via exe provided in your themes folder 
+1. Once betterdiscord is installed, move shadex.theme.css to themes folder 
 
-(default is: C:\Users\(YourName)\AppData\Roaming\BetterDiscord\themes)
+Themes Folder Is Located Here - (C:\Users\(YourUsername)\AppData\Roaming\BetterDiscord\themes)
 
-2. Go into discord and scroll down until you see Themes, once there turn on Shadex
+2. Now go into discord settings, scroll down until you see Themes, once there turn on Shadex
 3. Enjoy your new theme
 
 Make Sure Your Settings Look Like This:
