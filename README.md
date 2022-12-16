@@ -1,7 +1,7 @@
 **GITHUB PAGE FOR SHADEX IS CURRENTLY BEING UPDATED INFORMATION BELOW MIGHT BE OUTDATED**
 
 <p align="center">
-  <img src="https://i.postimg.cc/TTvHLCpg/Screenshot-2022-07-28-035228.png" />
+  <img src="https://i.postimg.cc/38MMcYH5/Screenshot-2022-12-16-145855.png" />
 </p>
 
 Installation Instructions
