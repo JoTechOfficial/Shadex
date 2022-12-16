@@ -1,4 +1,4 @@
-**GITHUB PAGE FOR SHADEX IS CURRENTLY BEING UPDATED INFORMATION BELOW MIGHT BE OUTDATED**
+**A Better Theme For Discord, Bring A True Dark Mode Experience To Your Eyes**
 
 <p align="center">
   <img src="https://i.postimg.cc/38MMcYH5/Screenshot-2022-12-16-145855.png" />
