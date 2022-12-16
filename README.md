@@ -1,4 +1,4 @@
-Shadex
+Shadex **GITHUB PAGE FOR SHADEX IS GOING TO BE UPDATED SOON INFORMATION BELOW MIGHT BE OUTDATED**
 
 <p align="center">
   <img src="https://i.postimg.cc/TTvHLCpg/Screenshot-2022-07-28-035228.png" />
