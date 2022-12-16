@@ -19,7 +19,7 @@ Make Sure Your Settings Look Like This:
 -----
 
 <p align="center">
-  <img src="https://i.postimg.cc/tpfSfd1x/Screenshot-2022-12-16-103805.png" />
+  <img src="https://i.postimg.cc/RmRzv3Kq/Screenshot-2022-12-16-150339.png" />
 </p>
 
 Credits & Font Used
