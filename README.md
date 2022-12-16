@@ -1,4 +1,4 @@
-# <img src="https://i.postimg.cc/jqyTrCD7/Launcher-Logo-1.png" width="40" height="40"> FluentForDiscord
+Shadex
 
 <p align="center">
   <img src="https://i.postimg.cc/TTvHLCpg/Screenshot-2022-07-28-035228.png" />
@@ -8,18 +8,19 @@ Installation Instructions
 -----
 Install: https://betterdiscord.app/
 
-1. Once betterdiscord is installed, install fluent for discord via exe provided in your themes folder 
+1. Once betterdiscord is installed, install Shadex via exe provided in your themes folder 
 
 (default is: C:\Users\(YourName)\AppData\Roaming\BetterDiscord\themes)
 
-2. Go into discord and scroll down until you see Themes, once there turn on FluentForDiscord
+2. Go into discord and scroll down until you see Themes, once there turn on Shadex
 3. Enjoy your new theme
 
-Install These Fonts (Only For Windows 7-10):
+Make Sure Your Settings Look Like This:
 -----
-Segoe UI Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/Segoe%20UI.ttf)
 
-Segoe UI Variable Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/SegoeUI-VF.ttf)
+<p align="center">
+  <img src="https://i.postimg.cc/tpfSfd1x/Screenshot-2022-12-16-103805.png" />
+</p>
 
 Credits
 -----
