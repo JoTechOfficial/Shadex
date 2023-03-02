@@ -17,7 +17,7 @@ Themes Folder Is Located Here - (C:\Users\(YourUsername)\AppData\Roaming\BetterD
 2. Now go into discord settings, scroll down until you see Themes, once there turn on Shadex
 3. Enjoy your new theme
 
-*Plugin Install:*
+**Plugin Install:**
 1. Go to settings in discord then scroll down, then click plugins
 2. Click on "Open Plugins Folder"
 3. Extract files from plugins.7z to the opened folder
