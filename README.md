@@ -21,6 +21,7 @@ Themes Folder Is Located Here - (C:\Users\(YourUsername)\AppData\Roaming\BetterD
 1. Go to settings in discord then scroll down, then click plugins
 2. Click on "Open Plugins Folder"
 3. Extract files from plugins.7z to the opened folder
+4. Then go back to plugins page and enable all
 
 Make Sure Your Settings Look Like This:
 -----
