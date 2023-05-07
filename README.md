@@ -9,7 +9,7 @@ A Better Theme For Discord, Bring A True Dark Mode Experience To Your Eyes
 Installation Instructions
 -----
 **1. Apple Font Install (Required):**
-Install both "SFPRODISPLAYBOLD.OTF" and "SFPRODISPLAYREGULAR.OTF"
+1. Install both "SFPRODISPLAYBOLD.OTF" and "SFPRODISPLAYREGULAR.OTF"
 
 **2. Installation Instruction (Required):**
 1. Install: https://betterdiscord.app/
