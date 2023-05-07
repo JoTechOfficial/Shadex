@@ -8,16 +8,17 @@ A Better Theme For Discord, Bring A True Dark Mode Experience To Your Eyes
 
 Installation Instructions
 -----
-Install: https://betterdiscord.app/
+**1. Apple Font Install (Required):**
+Install both "SFPRODISPLAYBOLD.OTF" and "SFPRODISPLAYREGULAR.OTF"
 
-1. Once betterdiscord is installed, move shadex.theme.css to themes folder 
+**2. Installation Instruction (Required):**
+1. Install: https://betterdiscord.app/
+2. Once betterdiscord is installed, move shdx.theme.css to themes folder
+Themes Folder Is Located Here - (C:\Users(YourUsername)\AppData\Roaming\BetterDiscord\themes)
+3. Now go into discord settings, scroll down until you see Themes, once there turn on Shadex
+4. Enjoy your new theme
 
-Themes Folder Is Located Here - (C:\Users\(YourUsername)\AppData\Roaming\BetterDiscord\themes)
-
-2. Now go into discord settings, scroll down until you see Themes, once there turn on Shadex
-3. Enjoy your new theme
-
-**Plugin Install (Required):**
+**3. Plugin Install (Required):**
 1. Go to settings in discord then scroll down, then click plugins
 2. Click on "Open Plugins Folder"
 3. Extract files from plugins.7z to the opened folder
@@ -32,6 +33,6 @@ Make Sure Your Settings Look Like This:
 
 Credit & Font Used
 -----
-Heavily Modified Version Of This Skin: https://github.com/schnensch0/zelk
+Heavily Modified Version Of This Skin: https://github.com/Comfy-Themes/Discord
 
-Font: Bahnschrift (Included In Windows 10 and 11)
+Font: SF Pro Display (Provided with download)
