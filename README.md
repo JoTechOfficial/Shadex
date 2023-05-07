@@ -28,7 +28,7 @@ Make Sure Your Settings Look Like This:
 -----
 
 <p align="center">
-  <img src="https://i.postimg.cc/RmRzv3Kq/Screenshot-2022-12-16-150339.png" />
+  <img src="https://jotechofficial.github.io/Shadex/settingsstuff.png" />
 </p>
 
 Credit & Font Used
