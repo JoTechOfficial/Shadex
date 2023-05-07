@@ -1,5 +1,5 @@
 <p align="center">
-A Better Theme For Discord, Bring A True Dark Mode Experience To Your Eyes
+A Better Theme For Discord, A True Black Theme For Discord
 </p>
 
 <p align="center">
