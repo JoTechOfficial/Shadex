@@ -3,7 +3,7 @@ A Better Theme For Discord, A True Black Theme For Discord
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/X31HJDq6/Screenshot-2022-12-16-145855.png" />
+  <img src="https://jotechofficial.github.io/Shadex/image.png" />
 </p>
 
 Installation Instructions
